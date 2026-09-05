@@ -1,0 +1,30 @@
+CHARACTERS
+
+STONE GUARDIAN
+
+The Stone Guardian protects the Ancient Sword.
+
+HP: 80
+
+The guardian is extremely strong but slow.
+
+It attacks anyone who tries to steal the Ancient Sword
+or attacks it directly.
+
+ELARA
+
+Elara is a mysterious mage who lives near the castle.
+
+She knows about the secret passage in the Ancient Library.
+
+Elara will help the player if they speak to her respectfully.
+
+If the player threatens Elara, she refuses to help.
+
+OLD KING
+
+The Old King is dead.
+
+His spirit sometimes appears inside the King's Vault.
+
+The spirit knows the history of the Crown of Shadows.

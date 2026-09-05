@@ -1,0 +1,43 @@
+GAME RULES
+
+D20 DICE
+
+The game uses a twenty-sided dice.
+
+Every dice roll produces a number from 1 to 20.
+
+STEALING
+
+When stealing an important item:
+
+1-9: Critical failure
+10-14: Failure
+15-19: Success
+20: Critical success
+
+ATTACKING
+
+When attacking an enemy:
+
+1-5: Critical failure
+6-10: Miss
+11-19: Hit
+20: Critical hit
+
+EXPLORATION
+
+Players can explore locations to discover objects,
+characters, hidden passages and events.
+
+HUMAN OVERRIDE
+
+The Game Master must request human approval before major consequences.
+
+Examples:
+
+- Player death
+- Permanent loss of an important item
+- Killing an important character
+- Major changes to the game world
+
+The human can approve the proposed event or override it.

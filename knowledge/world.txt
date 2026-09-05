@@ -1,0 +1,24 @@
+THE DARK CASTLE
+
+The Dark Castle is an abandoned fortress surrounded by a dense forest.
+
+LOCATIONS
+
+Castle Entrance:
+The main entrance of the castle. It is damaged and covered with vines.
+From here, the player can travel to the Guardian's Chamber or the Ancient Library.
+
+Guardian's Chamber:
+A large stone chamber containing the Ancient Sword.
+A Stone Guardian protects the sword.
+The guardian normally sleeps unless someone attacks it or tries to steal the sword.
+
+Ancient Library:
+An old library containing hundreds of books.
+A secret passage is hidden behind a large bookshelf.
+The secret passage leads to the King's Vault.
+
+King's Vault:
+A hidden vault beneath the castle.
+It contains the legendary Crown of Shadows.
+The vault has a magical lock.
